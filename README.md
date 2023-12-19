@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-    <a href="linkedin.com/in/linnan-shi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/linnan-shi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
     <a href="mailto:selina350.pub@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
