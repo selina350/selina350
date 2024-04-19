@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Linnan(Selina) Shi!</h1>
 <h3 align="left">About Me:</h3>
 <p>- 💻 I’m a detail-oriented full stack software engineer who loves problem solving.</p>
-<p>- 🔭 I’m currently working on [TumbleWe](https://github.com/selina350/tumblewe)</p>
+<p>- 🔭 I’m currently working in a Stealth Mode Start Up company as a full stack software engineer as well as my own project[TumbleWe](https://github.com/selina350/tumblewe)</p>
 <p>- ⚡  **I'm travelling around USA with my twin sons in our RV 🚎**</p>
 
 <h3 align="left">Connect with me:</h3>
